@@ -1,0 +1,75 @@
+{
+    "$schema": "Schema/Presets-Schema.json",
+    "Name": "PerformanceLite",
+    "Description": "Disables most visual effects",
+    "Settings": [
+        {
+            "Name": "Animation",
+            "Enabled": false
+        },
+        {
+            "Name": "ClientAreaAnimation",
+            "Enabled": false
+        },
+        {
+            "Name": "ComboBoxAnimation",
+            "Enabled": false
+        },
+        {
+            "Name": "CursorShadow",
+            "Enabled": true
+        },
+        {
+            "Name": "DragFullWindows",
+            "Enabled": true
+        },
+        {
+            "Name": "DropShadow",
+            "Enabled": true
+        },
+        {
+            "Name": "EnableAeroPeek",
+            "Enabled": true
+        },
+        {
+            "Name": "FontSmoothing",
+            "Enabled": true
+        },
+        {
+            "Name": "IconShadow",
+            "Enabled": true
+        },
+        {
+            "Name": "ListBoxSmoothScrolling",
+            "Enabled": true
+        },
+        {
+            "Name": "MenuAnimation",
+            "Enabled": false
+        },
+        {
+            "Name": "SelectionFade",
+            "Enabled": false
+        },
+        {
+            "Name": "ShowThumbnails",
+            "Enabled": true
+        },
+        {
+            "Name": "TaskbarAnimations",
+            "Enabled": false
+        },
+        {
+            "Name": "TaskbarThumbnailCache",
+            "Enabled": false
+        },
+        {
+            "Name": "ToolTipAnimation",
+            "Enabled": false
+        },
+        {
+            "Name": "TranslucentSelect",
+            "Enabled": true
+        }
+    ]
+}
