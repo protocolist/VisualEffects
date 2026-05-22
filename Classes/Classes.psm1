@@ -26,6 +26,7 @@ enum EffectName {
 enum EffectPreset {
     NoAnimation
     Performance
+    PerformanceLite
 }
 
 <# There are two types of effects: API-based and registry-based. We use a class for each type so we can handle
